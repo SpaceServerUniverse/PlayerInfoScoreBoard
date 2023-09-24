@@ -1,0 +1,4 @@
+name: PlayerInfoScoreBoard
+version: '${version}'
+main: space.yurisi.playerinfoscoreboard.PlayerInfoScoreBoard
+api-version: '1.20'
