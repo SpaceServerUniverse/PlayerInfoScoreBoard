@@ -8,8 +8,8 @@ import org.bukkit.scoreboard.Criteria;
 import org.bukkit.scoreboard.DisplaySlot;
 import org.bukkit.scoreboard.Objective;
 import org.bukkit.scoreboard.Scoreboard;
-import space.yurisi.universecore.expection.MoneyNotFoundException;
-import space.yurisi.universecore.expection.UserNotFoundException;
+import space.yurisi.universecore.exception.MoneyNotFoundException;
+import space.yurisi.universecore.exception.UserNotFoundException;
 import space.yurisi.universeeconomy.UniverseEconomyAPI;
 
 import java.util.Objects;
